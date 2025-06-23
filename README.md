@@ -1,83 +1,25 @@
-# [Start Bootstrap - Personal](https://startbootstrap.com/template/personal/)
+## Bootstrap Portfolio Website
+This is a locally hosted Bootstrap Portfolio Website using [this](https://startbootstrap.com/theme/personal) template. It is not currently up to date or complete, it was just an opportunity to gain experience with **HTML, Javascript, CSS, and Bootstrap**. 
 
-[Personal](https://startbootstrap.com/template/personal/) is a personal website template for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/). This template includes 4 unique HTML pages and a working contact form built with [Start Bootstrap Froms](https://startbootstrap.com/solution/contact-forms).
+## Demo Video:
+[Youtube Link](https://youtu.be/-Iet0NEPwoA)
 
-## Preview
+## To Run:
 
-[![Personal Preview](https://assets.startbootstrap.com/img/screenshots/themes/personal.png)](https://startbootstrap.github.io/startbootstrap-personal/)
+1. Clone this repo
+2. To install all dependencies, run ```npm install``` in the terminal.
+3. To locally host and view the site:
+- Make sure you have the Live Server extension installed.
+- Open your project folder in VS Code.
+- Click the "Go Live" button at the bottom right.
+- Your default browser will open your site at http://localhost:5500 (or similar).
 
-**[View Live Preview](https://startbootstrap.github.io/startbootstrap-personal/)**
+**The learning objectives were to:**
+- Apply principles of design thinking to create and iterate on portfolio website designs.
+- Develop low-fidelity sketches to explore multiple design concepts for a portfolio website.
+- Conduct user evaluations to gather feedback and insights for iterative design improvement.
+- Implement web development skills using Bootstrap, JavaScript, and HTML to build a functional portfolio website.
+- Receive and incorporate feedback to enhance the usability, functionality, and visual appeal of the portfolio website.
+- Demonstrate understanding of user-centered design principles and best practices in web development through the iterative design process
 
-## Status
-
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/StartBootstrap/startbootstrap-personal/master/LICENSE)
-[![npm version](https://img.shields.io/npm/v/startbootstrap-personal.svg)](https://www.npmjs.com/package/startbootstrap-personal)
-
-## Download and Installation
-
-To begin using this template, choose one of the following options to get started:
-
-* [Download the latest release on Start Bootstrap](https://startbootstrap.com/template/personal/)
-* Install via npm: `npm i startbootstrap-personal`
-* Clone the repo: `git clone https://github.com/StartBootstrap/startbootstrap-personal.git`
-* [Fork, Clone, or Download on GitHub](https://github.com/StartBootstrap/startbootstrap-personal)
-
-## Usage
-
-### Basic Usage
-
-After downloading, simply edit the HTML and CSS files included with `dist` directory. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
-
-### Advanced Usage
-
-Clone the source files of the theme and navigate into the theme's root directory. Run `npm install` and then run `npm start` which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. You can view the `package.json` file to see which scripts are included.
-
-#### npm Scripts
-
-* `npm run build` builds the project - this builds assets, HTML, JS, and CSS into `dist`
-* `npm run build:assets` copies the files in the `src/assets/` directory into `dist`
-* `npm run build:pug` compiles the Pug located in the `src/pug/` directory into `dist`
-* `npm run build:scripts` brings the `src/js/scripts.js` file into `dist`
-* `npm run build:scss` compiles the SCSS files located in the `src/scss/` directory into `dist`
-* `npm run clean` deletes the `dist` directory to prepare for rebuilding the project
-* `npm run start:debug` runs the project in debug mode
-* `npm start` or `npm run start` runs the project, launches a live preview in your default browser, and watches for changes made to files in `src`
-
-You must have npm installed in order to use this build environment.
-
-### Contact Form
-
-The contact form available with this theme is prebuilt to use [SB Forms](https://startbootstrap.com/solution/contact-forms).
-SB Forms is a simple form solution for adding functional forms to your theme. Since this theme is prebuilt using our
-SB Forms markup, all you need to do is sign up for [SB Forms on Start Bootstrap](https://startbootstrap.com/solution/contact-forms).
-
-After signing up you will need to set the domain name your form will be used on, and you will then see your
-access key. Copy this and paste it into the `data-sb-form-api-token='API_TOKEN'` data attribute in place of
-`API_TOKEN`. That's it! Your forms will be up and running!
-
-If you aren't using SB Forms, simply delete the custom data attributes from the form, and remove the link above the
-closing `</body>` tag to SB Forms.
-
-## Bugs and Issues
-
-Have a bug or an issue with this template? [Open a new issue](https://github.com/StartBootstrap/startbootstrap-personal/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](https://startbootstrap.com/template/personal/).
-
-## About
-
-Start Bootstrap is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
-
-* <https://startbootstrap.com>
-* <https://twitter.com/SBootstrap>
-
-Start Bootstrap was created by and is maintained by **[David Miller](https://davidmiller.io/)**.
-
-* <https://davidmiller.io>
-* <https://twitter.com/davidmillerhere>
-* <https://github.com/davidtmiller>
-
-Start Bootstrap is based on the [Bootstrap](https://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
-
-## Copyright and License
-
-Copyright 2013-2023 Start Bootstrap LLC. Code released under the [MIT](https://github.com/StartBootstrap/startbootstrap-personal/blob/master/LICENSE) license.
-# bootstrap_portfolio
+[Link to Sketches and Prototyping](https://docs.google.com/document/d/1zLv3t4Ku7Sc-Frl89f5eFP_ZWpZYb4aApH82VHp4Zwk/edit?usp=sharing)
